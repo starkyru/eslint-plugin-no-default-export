@@ -1,0 +1,11 @@
+{
+  "name": "eslint-no-default-export",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@babel/cli": "^7.2.0",
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-add-module-exports": "^1.0.0",
+    "eslint": "^5.12.1"
+  }
+}

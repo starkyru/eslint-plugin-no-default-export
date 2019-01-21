@@ -1,0 +1,1 @@
+### Just an ESLint rule to forbid ```export default```
